@@ -1,15 +1,12 @@
 {
-  "name": "Суфлёр для озвучки",
-  "short_name": "Суфлёр",
-  "lang": "ru",
-  "start_url": "./index.html",
-  "scope": "./",
+  "background_color": "#5a5a5a",
+  "dir": "ltr",
   "display": "standalone",
-  "background_color": "#1c2430",
-  "theme_color": "#ffffff",
-  "icons": [
-    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
-  ]
+  "name": "Сценарий",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "edikleo579-star.github",
+  "start_url": "/",
+  "theme_color": "#13d3dd",
+  "id": "com.scenario.app"
 }
